@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Elite Interview Simulator",
+  "description": "An AI-powered interview simulator that uses Gemini's Live API to conduct realistic, high-pressure interviews with the persona of an elite professor. Practice your reasoning, communication, and composure under pressure.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
